@@ -1,7 +1,7 @@
 # ISO
 
 # Education:
-  # MBA
+MBA
 
 # Projects
-  # ABC
+ABC
