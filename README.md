@@ -3,5 +3,5 @@
 # Education:
   # MBA
 
-#Projects
+# Projects
   # ABC
